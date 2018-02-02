@@ -1,3 +1,4 @@
+# !python3
 #bulletPointAdder.py - クリップボードのテキストの各行に
 #点を売って。Wikipediaの箇条書きにする
 
